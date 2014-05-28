@@ -25,6 +25,7 @@
       <input type="submit" name="submit" value="Submit" />
 </form>
 <?php
+	//Ranbo says hi
     // DB connection info
     //TODO: Update the values for $host, $user, $pwd, and $db
     //using the values you retrieved earlier from the portal.
